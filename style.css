@@ -104,8 +104,7 @@ ul li a:hover::after {
 	font-size: 120px;
 	line-height: 120px;
 	margin-left: -10px;
-	color: transparent;
-	text-stroke: 1px white;
+	color:#fff;
 	background-clip: text;
 	background-clip: padding-box;
 	background-clip: text;
